@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/funny-learn/static/css/main.3a2a8346.chunk.css",
+    "main.js": "/funny-learn/static/js/main.fb2f5c53.chunk.js",
+    "main.js.map": "/funny-learn/static/js/main.fb2f5c53.chunk.js.map",
+    "runtime-main.js": "/funny-learn/static/js/runtime-main.7a38c6ef.js",
+    "runtime-main.js.map": "/funny-learn/static/js/runtime-main.7a38c6ef.js.map",
+    "static/js/2.cdef93f6.chunk.js": "/funny-learn/static/js/2.cdef93f6.chunk.js",
+    "static/js/2.cdef93f6.chunk.js.map": "/funny-learn/static/js/2.cdef93f6.chunk.js.map",
+    "index.html": "/funny-learn/index.html",
+    "static/css/main.3a2a8346.chunk.css.map": "/funny-learn/static/css/main.3a2a8346.chunk.css.map",
+    "static/js/2.cdef93f6.chunk.js.LICENSE.txt": "/funny-learn/static/js/2.cdef93f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a38c6ef.js",
+    "static/js/2.cdef93f6.chunk.js",
+    "static/css/main.3a2a8346.chunk.css",
+    "static/js/main.fb2f5c53.chunk.js"
+  ]
+}
